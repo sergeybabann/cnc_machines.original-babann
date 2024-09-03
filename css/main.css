@@ -1,0 +1,42 @@
+html {
+  /* плавный скролл */
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+ul,
+li,
+a,
+div {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+ul,
+ol {
+  line-height: 31px;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+li {
+  text-decoration: none;
+  list-style-position: inside;
+}
+
+.wrapper {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-columns: repeat(12, 1fr);
+}

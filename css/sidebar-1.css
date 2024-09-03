@@ -1,0 +1,21 @@
+.sidebar-1 {
+  background-color: var(--bg-color-sidebar-1);
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.sidebar-1__wrapper {
+  padding: 20px;
+  font-size: 20px;
+  position: fixed;
+  top: 80px;
+}
+
+.a__sidebar-1 {
+  color: #000;
+  text-decoration: none;
+}
+
+.a__sidebar-1:hover {
+  color: red;
+}

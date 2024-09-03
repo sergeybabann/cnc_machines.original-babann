@@ -1,0 +1,14 @@
+.sidebar-2 {
+  background-color: var(--bg-color-sidebar-1);
+  grid-column-start: 11;
+  grid-column-end: -1;
+  right: 0;
+  width: 311px;
+}
+
+.sidebar-2__wrapper {
+  padding: 20px;
+  font-size: 20px;
+  position: fixed;
+  top: 80px;
+}
