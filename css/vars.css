@@ -1,9 +1,13 @@
 :root {
+  /*---------- background-color ----------*/
   --bg-color-header: rgba(220, 220, 220, 10); /* Gainsboro */
   --bg-color-main: rgba(245, 245, 245, 10); /* White Smoke */
   --bg-color-sidebar-1: rgba(220, 220, 220, 0.6); /* Gainsboro */
   --bg-color-danger: rgba(255, 0, 0, 0.5);
   --bg-color-header__block1: rgba(135, 206, 250, 0.5); /* Light Sky Blue */
   --bg-color-header__block3: rgba(189, 183, 107, 10); /* Dark Khaki */
-  --bg-color-footer: rgba(0, 0, 0, 0.9); /*  */
+  --bg-color-footer: rgba(0, 0, 0, 0.9); /* black */
+
+  /*---------- text ----------*/
+  --font-weight-strong1: 600;
 }

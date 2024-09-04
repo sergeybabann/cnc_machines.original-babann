@@ -40,3 +40,7 @@ li {
   grid-auto-flow: column;
   grid-template-columns: repeat(12, 1fr);
 }
+
+.strong1__text {
+  font-weight: var(--font-weight-strong1);
+}
